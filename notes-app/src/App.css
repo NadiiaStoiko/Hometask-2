@@ -1,0 +1,11 @@
+.container{
+  padding: 10px;
+}
+
+.create-btn,.show-archive-btn {
+  margin: 1%;
+  width: 15%;
+  padding: 10px;
+  border-radius: 12px;
+  font-weight: 500;
+}
